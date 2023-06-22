@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../../../tindog2"
+		},
+		{
+			"path": "../../../birdor"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../css my site"
+		},
+		{
+			"path": "../personal web"
+		},
+		{
+			"path": "../WEB"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "css my site"
+	}
+}
